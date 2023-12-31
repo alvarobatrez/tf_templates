@@ -1,4 +1,1 @@
 # Tensorflow Templates
-
-## Index
-
