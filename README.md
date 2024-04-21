@@ -5,3 +5,5 @@
     + Classification
 2. Convolutional Neural Networks
     + MNIST
+    + CIFAR10
+    + Custom Images
