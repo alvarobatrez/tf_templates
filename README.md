@@ -7,3 +7,5 @@
     + MNIST
     + CIFAR10
     + Custom Images
+3. Recurrent Neural Networks
+    + Simple RNN / LSTM
