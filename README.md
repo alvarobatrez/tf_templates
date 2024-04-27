@@ -9,3 +9,4 @@
     + Custom Images
 3. Recurrent Neural Networks
     + Simple RNN / LSTM
+    + Time Series
