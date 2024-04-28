@@ -10,3 +10,5 @@
 3. Recurrent Neural Networks
     + Simple RNN / LSTM
     + Time Series
+4. Natural Language Processing
+    + Text Generation
