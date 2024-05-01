@@ -15,3 +15,5 @@
 5. Autoencoders.
     + Image Generator / Image Denoising
 7. GANs.
+    + Generative Adversarial Networks
+    + Deep Convolutional GANs
