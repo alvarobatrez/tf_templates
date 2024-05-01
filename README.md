@@ -12,3 +12,6 @@
     + Time Series
 4. Natural Language Processing
     + Text Generation
+5. Autoencoders.
+    + Image Generator / Image Denoising
+7. GANs.
