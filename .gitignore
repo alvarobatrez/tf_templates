@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 DATA/cell_images/
+*.keras
