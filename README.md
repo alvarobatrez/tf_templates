@@ -31,10 +31,12 @@ cd tf_templates
 
 source venv\bin\activate
 
-and install Tensorflow and Jupyter with:
+and install Tensorflow and other libraries:
 
 pip install tensorflow[and-cuda]
 
-pip install tensorflow
-
 pip install jupyter
+
+pip install scikit-learn
+
+pip install seaborn
