@@ -40,3 +40,8 @@ pip install jupyter
 pip install scikit-learn
 
 pip install seaborn
+
+
+## Malaria Dataset
+
+Download the dataset from <https://drive.google.com/file/d/1Q0FN6wp1S299Uhcs96fAF5PuJRHyt0ef/view?usp=sharing>
